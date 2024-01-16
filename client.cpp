@@ -14,7 +14,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//dirived from Rincons code from class
+//derived from Rincons code from class
 
 struct threadParams{
     string subMsg;
